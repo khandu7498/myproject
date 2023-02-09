@@ -1,0 +1,11 @@
+reverted yRevert "seventh commit"
+
+This reverts commit 4b54d80c4bb4938fcf95251119b413d67b742824.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    saventh.html
+#
